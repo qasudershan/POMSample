@@ -71,7 +71,7 @@ Environment Setup and user guide:
 
 
 8. Start working in Folder structure
-			prezentProject/
+			prezentTestProject/
 			│
 			├── pages/
 			│   ├── __init__.py
