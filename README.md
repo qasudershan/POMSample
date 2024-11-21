@@ -1,4 +1,4 @@
-Environment Setup in pycharm:
+Environment Setup and user guide:
 
 1. In PyCharm, go to File > Settings > Project: prezentProject > Python Interpreter.
 2. Click Add Interpreter > Add New Environment > Virtualenv.
@@ -97,9 +97,10 @@ Environment Setup in pycharm:
 	pytest --browser=chrome
 
 10. Git Configuration
-	In terminal go to project directory
-		git init
-		git add .
-		git commit -m "Initial commit for Selenium Base POM Framework"
-		git remote add origin <your-repository-url>
-		git push -u origin main
+    In terminal go to project directory
+        git init
+        git add .
+        git commit -m "Initial commit for Selenium Base POM Framework"
+        git remote add origin https://github.com/qasudershan/POMSample.git
+        git branch -M master 
+        git push -u origin master
