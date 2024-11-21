@@ -76,6 +76,7 @@ Environment Setup and user guide:
 			├── pages/
 			│   ├── __init__.py
 			│   ├── base_page.py
+   			│   ├── fingerprint_page.py
 			│   ├── login_page.py
 			│   ├── profile_page.py
 			│   ├── templates_page.py
@@ -84,6 +85,7 @@ Environment Setup and user guide:
 			│   ├── __init__.py
 			│   ├── base_test.py
 			│   ├── test_login_profile.py
+			│   ├── test_finger_print.py
 			│
 			├── venv/                 # Virtual environment folder (created via PyCharm or manually)
 			│
@@ -93,10 +95,10 @@ Environment Setup and user guide:
 			├── README.md             
 
    
-9. Run Tests:
+10. Run Tests:
 	pytest --browser=chrome
 
-10. Git Configuration
+11. Git Configuration
     In terminal go to project directory
         git init
         git add .
