@@ -1,6 +1,6 @@
 Environment Setup and user guide:
 
-1. In PyCharm, go to File > Settings > Project: prezentProject > Python Interpreter.
+1. In PyCharm, go to File > Settings > Project: prezentTestProject > Python Interpreter.
 2. Click Add Interpreter > Add New Environment > Virtualenv.
 3. Specify the folder (venv) and create the environment.
 4. In Pycharm select the prezentProject > PyCahrm > Settings
